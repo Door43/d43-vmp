@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vmp:home|Door43 (vmp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vmp|d43-vmp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vmp/archive/master.zip|d43-vmp.zip]]
+
+**Recent Changes**
+{{changes>ns = vmp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vmp|Ethnologue data]]
+
